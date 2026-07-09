@@ -1,6 +1,5 @@
 # ErrorChec — Анализатор кода 
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/ErrorChec)
 [![Python](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.6.0-purple.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
