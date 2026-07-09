@@ -43,11 +43,6 @@
 git clone https://github.com/yourusername/ErrorChec.git
 cd ErrorChec
 
-# Создание виртуального окружения
-python -m venv venv
-venv\Scripts\activate  # Для Windows
-# source venv/bin/activate  # Для Linux/Mac
-
 # Установка зависимостей
 pip install -r requirements.txt
 
