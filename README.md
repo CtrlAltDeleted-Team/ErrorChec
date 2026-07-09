@@ -39,7 +39,7 @@ https://cadteam.ru/free.html
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/ErrorChec.git
+git clone https://github.com/CtrlAltDeleted-Team/ErrorChec.git
 cd ErrorChec
 
 # Установка зависимостей
