@@ -37,7 +37,6 @@
 
 ##  Установка и запуск
 
-### Из исходников
 ```bash
 # Клонирование репозитория
 git clone https://github.com/yourusername/ErrorChec.git
