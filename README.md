@@ -34,7 +34,7 @@
 - Сохранение как с выбором языка и расширения
 - Автоматическая установка расширения в зависимости от языка
 ##  Готовый exe Файл
-[![Download](https://img.shields.io/badge/license-MIT-blue.svg)]((https://cadteam.ru)
+https://cadteam.ru
 ##  Установка и запуск
 
 ```bash
